@@ -1,0 +1,20 @@
+/* stylesheet */
+.odd {
+    background-color: pink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+/* use # for id selectors */
+#uniqueOne {
+    color: blue;
+    font-size: 36px;
+}
+
+.odd.plus {
+    font-size: 24px;
+}
+
+#uniqueTwo {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
