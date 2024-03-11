@@ -1,1 +1,10 @@
 /* Add CSS Styling */
+/* chaining - must have both names in the class dedlaration */
+.avatar.proportioned {
+    width: 300px;
+    height: auto; /* auto keeps the proportion correct for the image */
+}
+.avatar.distorted {
+    width: 200px;
+    height: 400px;
+}
